@@ -118,7 +118,7 @@ class MyHelper extends Module
         ....
     }
 
-    public function doSomethind()
+    public function doSomething()
     {
         ....
     }
